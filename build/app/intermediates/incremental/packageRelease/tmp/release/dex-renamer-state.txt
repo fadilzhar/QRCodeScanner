@@ -1,0 +1,4 @@
+#Fri Dec 06 21:31:59 WIB 2024
+base.0=C\:\\Users\\ThinkPad\\Documents\\Flutter Project\\qr_code_generator\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
